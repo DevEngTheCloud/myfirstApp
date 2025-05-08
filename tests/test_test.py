@@ -3,6 +3,6 @@ def test_pass():
   assert name=="Jeff"
 
 def test_fail():
-  name =  "Jeff"
-  assert name=="Marry"
+  name =  "Mary"
+  assert name=="Mary"
   
