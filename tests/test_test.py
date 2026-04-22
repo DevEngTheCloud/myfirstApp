@@ -4,5 +4,5 @@ def test_pass():
 
 def test_fail():
   name =  "jeffrey"
-  assert name=="jeffrey"
+  assert name=="MARY"
   
